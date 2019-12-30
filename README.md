@@ -10,7 +10,7 @@ This bottom sheet displays in-app content. It will be displayed at the bottom of
 It has a smaller elevation.  
 
 <p align="center">
-  <img src="https://miro.medium.com/max/300/1*D7zRxE6TaelZZ3IA1hcmAw.png"   width=200 height=300/>
+  <img src="https://miro.medium.com/max/300/1*D7zRxE6TaelZZ3IA1hcmAw.png"   width=200 height=350/>
 </p>
 
 **Modal Bottom Sheet**  
